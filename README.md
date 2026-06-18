@@ -72,7 +72,7 @@ The project was built as part of my Data Science internship preparation to gain 
 - K-Means
 
 ### Classification
-- Random Forest Classifier
+- Decision Tree Classifier
 
 ---
 
